@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🌱 I’m currently learning ...
+### Hi there 👋, I'm Alexey Korotkov
+- 🌱 I'm currently learning development in C#
 <!--
 **web-punch/web-punch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
