@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Alexey Korotkov
 🌱 I'm currently learning development in C#
 
-
 ![Alexey Korotkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-punch&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-punch&layout=compact&theme=transparent)
 <!--
 **web-punch/web-punch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
